@@ -6,8 +6,8 @@
 set -eu
 
 # ========= CONFIG =========
-API_TOKEN="RAkoirfNf2ihxjZQzb39ed8gCSXxxFvCqeGEaBqI"
-ZONE_ID="85a7478ee9595f9e409f4556dc29575e"
+API_TOKEN="APIToken"
+ZONE_ID="ZoneID"
 
 PROXIED=true       # true=orange cloud, false=DNS only
 TTL=120            # 1=auto, else seconds (>=120)
