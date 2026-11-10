@@ -1,0 +1,5 @@
+-log=/var/log/sec.log \
+-input=/var/log/messages \
+-input=/var/log/named.log \
+-input=/var/log/httpd-access.log
+
