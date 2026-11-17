@@ -61,5 +61,5 @@ Semua fail adalah contoh untuk rujukan. Nilai seperti interface, IP, laluan dan 
 ## Pautan
 
 - Buku: https://freebsd.my/#buku
-- Penulis: [github.com/azmawee](https://github.com/azmawee)
+- Penulis: [azmawee.github.io](https://azmawee.github.io)
 - Facebook: [facebook.com/maui512gbram](https://facebook.com/maui512gbram)
