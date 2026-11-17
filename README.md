@@ -14,7 +14,13 @@ Buku ini merekodkan pembinaan rangkaian rumah moden menggunakan FreeBSD, dari pe
 
 ## Kulit buku
 
-![Kulit depan buku Seni Membina Rangkaian Rumah Moden](assets/cover-buku.jpeg)
+### Depan
+
+![Kulit depan buku Seni Membina Rangkaian Rumah Moden](assets/cover-depan.jpeg)
+
+### Belakang
+
+![Kulit belakang buku Seni Membina Rangkaian Rumah Moden](assets/cover-belakang.jpeg)
 
 ## Sorotan bab
 
