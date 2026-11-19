@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Untuk rujukan buku dan kod iringan, gunakan maklumat sitasi ini."
+title: "FreeBSD: Seni Membina Rangkaian Rumah Moden"
+abstract: "Panduan dan kisah membina rangkaian rumah moden dengan FreeBSD, dari pemasangan pertama dan asas sistem sampai PPPoE, pf, DHCP, Wi-Fi, DNS terenkripsi, AdGuard Home, storan, NAS, web server, VPN, backup, bhyve, Plex dan pemantauan sistem."
+authors:
+  - name: "Tengku Azmawee"
+    alias: "MaUi^"
+    website: "https://azmawee.github.io/"
+url: "https://seni.freebsd.my/"
+repository-code: "https://github.com/azmawee/seni-freebsd"
+keywords:
+  - FreeBSD
+  - rangkaian rumah
+  - keselamatan siber
+  - infrastruktur IT
+  - sistem operasi
